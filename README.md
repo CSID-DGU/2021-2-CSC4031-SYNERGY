@@ -3,4 +3,5 @@
 
 [![Python version](https://img.shields.io/badge/python-3.8.0-brightgreen.svg)](https://www.python.org)   
 **Team Leader**: [Jeong-pil](https://github.com/jeong-pil)
-**Team Member**: [Byeong-chan](https://github.com/oxox97), [Ji-Yong](https://github.com/moonjiyong)
+**Team Member**: [Byeong-chan](https://github.com/oxox97), [Ji-yong](https://github.com/moonjiyong), [Min-young](https://github.com/Son0930)
+
