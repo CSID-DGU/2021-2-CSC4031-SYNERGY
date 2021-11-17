@@ -6,8 +6,14 @@
 
 ### Final Model Selection : Stacked RNN (LSTM) (Sequence Length = 4)
 
+
 # 2. 최적 Sequence Length 선정 과정
 
 ![image](https://user-images.githubusercontent.com/71135290/142167527-c6de9f65-af62-4958-98bb-cc087b049698.png)
 
 ![image](https://user-images.githubusercontent.com/71135290/142167567-47c5866d-8094-4c3b-9cf3-cc7c8bf6cfba.png)
+
+
+# 3. 최적화 공식
+
+![image](https://user-images.githubusercontent.com/71135290/142168595-ca731ed0-a889-4f55-9495-cbf7dd5b2cb9.png)
