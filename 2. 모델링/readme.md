@@ -1,10 +1,10 @@
 # 1. 최적 모델 및 피처 선정 과정
 
-#### Evaluation Metric : Root Mean Squared Error (RMSE)
+### Evaluation Metric : Root Mean Squared Error (RMSE)
 
 ![image](https://user-images.githubusercontent.com/71135290/142166109-c3297c78-bd73-4ea1-87db-bac089688351.png)
 
-####Final Model Selection : Stacked RNN (LSTM) (Sequence Length = 4)
+### Final Model Selection : Stacked RNN (LSTM) (Sequence Length = 4)
 
 # 2. 최적 Sequence Length 선정 과정
 
